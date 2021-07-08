@@ -1,0 +1,110 @@
+Name : Anish Sofat
+Roll No. : 19CS10011
+
+BOOKING SUCCEEDED:
+PNR Number = 1
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 12/May/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 2
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 19/Feb/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 4763
+
+BOOKING SUCCEEDED:
+PNR Number = 3
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 12/Feb/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 4
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 19/Feb/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 2411
+
+BOOKING SUCCEEDED:
+PNR Number = 5
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 12/Feb/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 492
+
+BOOKING SUCCEEDED:
+PNR Number = 6
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 19/Feb/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 2411
+
+BOOKING SUCCEEDED:
+PNR Number = 7
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 12/Feb/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 2249
+
+BOOKING SUCCEEDED:
+PNR Number = 8
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 19/Feb/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 1198
+
+BOOKING SUCCEEDED:
+PNR Number = 9
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 12/May/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849

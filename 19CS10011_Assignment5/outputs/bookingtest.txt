@@ -1,0 +1,387 @@
+Name : Anish Sofat
+Roll No. : 19CS10011
+
+BOOKING SUCCEEDED:
+PNR Number = 1
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 2
+From Station = Mumbai
+To Station = Delhi
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 3
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 4
+From Station = Kolkata
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 3987
+
+BOOKING SUCCEEDED:
+PNR Number = 5
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 6
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 2234
+
+BOOKING SUCCEEDED:
+PNR Number = 7
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 2249
+
+BOOKING SUCCEEDED:
+PNR Number = 8
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 1198
+
+BOOKING SUCCEEDED:
+PNR Number = 9
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 10
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 4763
+
+BOOKING SUCCEEDED:
+PNR Number = 11
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 12
+From Station = Delhi
+To Station = Kolkata
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 2452
+
+BOOKING SUCCEEDED:
+PNR Number = 13
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 492
+
+BOOKING SUCCEEDED:
+PNR Number = 14
+From Station = Bangalore
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 1654
+
+BOOKING SUCCEEDED:
+PNR Number = 15
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 5263
+
+BOOKING SUCCEEDED:
+PNR Number = 16
+From Station = Chennai
+To Station = Bangalore
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 1198
+
+BOOKING SUCCEEDED:
+PNR Number = 17
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 18
+From Station = Chennai
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 4409
+
+BOOKING SUCCEEDED:
+PNR Number = 19
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 2249
+
+BOOKING SUCCEEDED:
+PNR Number = 20
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC First Class
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: Yes
+Fare = 5263
+
+BOOKING SUCCEEDED:
+PNR Number = 21
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 21/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 22
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 23
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 24
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 2 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 2
+ : Luxury: No
+Fare = 1786
+
+BOOKING SUCCEEDED:
+PNR Number = 25
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 492
+
+BOOKING SUCCEEDED:
+PNR Number = 26
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 17/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 27
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 28
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 944
+
+BOOKING SUCCEEDED:
+PNR Number = 29
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1125
+
+BOOKING SUCCEEDED:
+PNR Number = 30
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 1849
+
+BOOKING SUCCEEDED:
+PNR Number = 31
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 40
+
+BOOKING SUCCEEDED:
+PNR Number = 32
+From Station = Delhi
+To Station = Mumbai
+Travel Date = 20/Mar/2021
+Travel Class = AC 3 Tier
+ : Mode: Sleeping
+ : Comfort: AC
+ : Bunks: 3
+ : Luxury: No
+Fare = 492
+
